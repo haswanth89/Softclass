@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "775925570735",
+    "project_id": "soft-class",
+    "storage_bucket": "soft-class.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775925570735:android:0dc9fe27779a5007fa085a",
+        "android_client_info": {
+          "package_name": "com.example.softclass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775925570735-hrec0mhr0hb2llb67fqooh6q2b74l27m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB59tz_f69KXv-jW1FP9fKI93bFSUJBMOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775925570735-hrec0mhr0hb2llb67fqooh6q2b74l27m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
